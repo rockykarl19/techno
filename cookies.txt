@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+technotronic123.weebly.com	TRUE	/	FALSE	1999999999	is_mobile	0
+technotronic123.weebly.com	TRUE	/	FALSE	1999999999	language	en
+
